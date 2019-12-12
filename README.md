@@ -4,8 +4,19 @@ My collection of USB Type-C converter boards
 
 ## Documentation
 
-See project wiki: https://github.com/joric/type-c/wiki
+See project wiki: https://github.com/joric/usb-c/wiki
 
+## YDKB-C
+
+YDKB HHKB BLE USB Type-C converter board
+
+* https://PCBs.io/share/zyplm
+
+### Front
+![](ydkb/front.png)
+
+### Back
+![](ydkb/back.png)
 
 ## References
 
