@@ -20,4 +20,4 @@ YDKB HHKB BLE USB Type-C converter board
 
 * https://github.com/joric/usb-c/wiki
 * https://kbdfans.com/products/hhkb-ble-mod-upgrade-module
-* https://github.com/joric/usb-c/nrfmicro
+* https://github.com/joric/nrfmicro
